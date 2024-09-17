@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item>
+        <Type>Plant</Type>
+        <ItemNo>3245649</ItemNo>
+        <Description>Agapanthus</Description>
+        <Price>7.95</Price>
+        <Size>1 gallon</Size>
+    </Item>
+    <Item>
+        <Type>Plant</Type>
+        <ItemNo>3762592</ItemNo>
+        <Description>Limonium</Description>
+        <Price>6.95</Price>
+        <Size>1 gallon</Size>
+    </Item>
+    <Item>
+        <Type>Supply</Type>
+        <ItemNo>9210584</ItemNo>
+        <Description>Snail pellets</Description>
+        <Price>12.95</Price>
+        <Manufacturer>Ortho</Manufacturer>
+    </Item>
+    <Item>
+        <Type>Plant</Type>
+        <ItemNo>4738459</ItemNo>
+        <Description>Japanese Red Maple</Description>
+        <Price>89.95</Price>
+        <Size>15 gallon</Size>
+    </Item>
+    <Item>
+        <Type>Supply</Type>
+        <ItemNo>1215343</ItemNo>
+        <Description>TGB </Description>
+        <Price>49.99</Price>
+        <Manufacturer>Jobe's</Manufacturer>
+    </Item>
+</Items>
